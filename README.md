@@ -1,6 +1,6 @@
 # RESTFUL-CRUD-API
 
-Build a Restful CRUD API having name (String), age (Integer), message (String), and createDate (Date) as the model using Node.js, Express and PostgreSQL.
+A Restful CRUD API having name (String), age (Integer), message (String), and createDate (Date) as the model using Node.js, Express and PostgreSQL.
 
 ## Steps to Setup
 
